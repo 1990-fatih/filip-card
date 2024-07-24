@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filip-card/static/css/main.539e03de.css",
+    "main.js": "/filip-card/static/js/main.dd2a9772.js",
+    "static/js/453.a00dd58d.chunk.js": "/filip-card/static/js/453.a00dd58d.chunk.js",
+    "index.html": "/filip-card/index.html",
+    "main.539e03de.css.map": "/filip-card/static/css/main.539e03de.css.map",
+    "main.dd2a9772.js.map": "/filip-card/static/js/main.dd2a9772.js.map",
+    "453.a00dd58d.chunk.js.map": "/filip-card/static/js/453.a00dd58d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.539e03de.css",
+    "static/js/main.dd2a9772.js"
+  ]
+}
